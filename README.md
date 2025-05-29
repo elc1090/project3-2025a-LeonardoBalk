@@ -8,6 +8,9 @@
 
 ### O projeto
 
+https://keepdance.netlify.app/
+https://keepdance-backend.onrender.com/
+
 O projeto é uma plataforma web para **compartilhamento e organização de links de streaming de música eletrônica**. Usuários autenticados podem:
 
 * Adicionar links com título, gênero e tipo;
